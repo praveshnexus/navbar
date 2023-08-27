@@ -3,4 +3,4 @@ In this project, we create a responsive navigation bar with a logo and three men
 Clicking on the icon will reveal the home and about menu items. Each menu item will feature a hovering effect when the mouse is moved over it.
 We will utilize JavaScript to modify the classes of the HTML text, apply different CSS styles to each class, and use JavaScript to add or remove them accordingly.
 
-[Demo]()
+[Demo](https://praveshnexus.github.io/navbar/)
